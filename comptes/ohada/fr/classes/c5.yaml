@@ -1,0 +1,178 @@
+# Classe 5 Comptes de trésorerie
+
+
+50 Titres de placement
+  
+  501 Titres du trésor et bons de caisse à court terme
+    
+    5011 Titres du Trésor à court terme
+    
+    5012 Titres d’organismes financiers
+    
+    5013 Bons de caisse à court terme
+  
+  502 Actions
+    
+    5021 Actions propres
+    
+    5022 Actions cotées
+    
+    5023 Actions non cotées
+    
+    5024 Actions démembrées (certificats d’investissement, droits de vote)
+    
+    5025 Autres titres conférant un droit de propriété
+  
+  503 Obligations
+    
+    5031 Obligations émises par la société et rachetées par elle
+    
+    5032 Obligations cotées
+    
+    5033 Obligations non cotées
+    
+    5035 Autres titres conférant un droit de créance
+  
+  504 Bons de souscription
+    
+    5042 Bons de souscription d’ac-tions
+    
+    5043 Bons de souscription d’obli-gations
+  
+  505 Titres négociables hors région
+  
+  506 Intérêts courus
+    
+    5061 Titres du Trésor et bons de caisse à court terme
+    
+    5062 Actions
+    
+    5063 Obligations
+  
+  508 Autres valeurs assimilées
+
+
+51 Valeurs à encaisser
+  
+  511 Effets à encaisser
+  
+  512 Effets à l’encaissement
+  
+  513 Chèques à encaisser
+  
+  514 Chèques à l’encaissement
+  
+  515 Cartes de crédit à encaisser
+  
+  518 Autres valeurs à l’encaissement
+    
+    5181 Warrants
+    
+    5182 Billets de fonds
+    
+    5185 Chèques de voyage
+    
+    5186 Coupons échus
+    
+    5187 Intérêts échus des obligations
+
+
+52 Banques
+  
+  521 Banques locales
+    
+    5211 Banque X
+    
+    5212 Banque Y
+  
+  522 Banques autres États région
+  
+  523 Banques autres États zone monétaire
+  
+  524 Banques hors zone monétaire
+  
+  526 Banques, intérêts courus
+
+
+53 Établissements financiers et assimilés
+  
+  531 Chèques postaux
+  
+  532 Trésor
+  
+  533 Sociétés de gestion et d’inter-médiation (SGI)
+  
+  536 Établissements financiers, intérêts courus
+  
+  538 autres organismes financiers
+
+
+54 Instruments de trésorerie
+  
+  541 Options de taux d’intérêt
+  
+  542 Options de taux de change
+  
+  543 Options de taux boursiers
+  
+  544 Instruments de marchés à terme
+  
+  545 Avoirs d’or et autres métaux précieux [2]
+
+
+56 Banques, crédits de trésorerie et d’escompte
+  
+  561 Crédits de trésorerie
+  
+  564 Escompte de crédits de campagne
+  
+  565 Escompte de crédits ordinaires
+  
+  566 Banques, crédits de trésorerie, intérêts courus
+
+
+57 Caisse
+  
+  571 Caisse siège social
+    
+    5711 en unités monétaires légales
+    
+    5712 en devises
+  
+  572 Caisse succursale A
+    
+    5721 en unités monétaires légales
+    
+    5722 en devises
+  
+  573 Caisse succursale B
+    
+    5731 en unités monétaires légales
+    
+    5732 en devises
+
+
+58 Régies d’avances, accréditifs et virements internes
+  
+  581 Régies d’avance
+  
+  582 Accréditifs
+  
+  585 Virements de fonds
+  
+  588 Autres virements internes
+
+
+59 Dépréciations et risques provisionnés
+  
+  590 Dépréciations des titres de placement
+  
+  591 Dépréciations des titres et valeurs à encaisser
+  
+  592 Dépréciations des comptes banques
+  
+  593 Dépréciations des comptes établissements financiers et assimilés
+  
+  594 Dépréciations des comptes d’instruments de trésorerie
+  
+  599 Risques provisionnés à caractère financier
