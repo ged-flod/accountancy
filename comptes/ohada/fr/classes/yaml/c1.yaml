@@ -1,311 +1,158 @@
-# Classe 1 Comptes de ressources durables
+10: Capital
+101: Capital social
+1011: Capital souscrit, non appelé
+1012: Capital souscrit, appelé, non versé
+1013: Capital souscrit, appelé, versé, non amorti
+1014: Capital souscrit, appelé, versé, amorti
+1018: Capital souscrit soumis à des conditions particulières
+102: Capital par dotation
+1021: Dotation initiale
+1022: Dotations complémentaires
+1028: Autres dotations
+103: Capital personnel
+104: Compte de l’exploitant
+1041: Apports temporaires
+1042: Opérations courantes
+1043: Rémunérations, impôts et autres charges personnelles
+1047: Prélèvements d’autoconsom-mation
+1048: Autres prélèvements
+105: Primes liées aux capitaux propres
+1051: Primes d’émission
+1052: Primes d’apport
+1053: Primes de fusion
+1054: Primes de conversion
+1058: Autres primes
+106: Écarts de réévaluation
+1061: Écarts de réévaluation légale
+1062: Écarts de réévaluation libre
+109: Actionnaires, capital souscrit, non appelé
 
+11: Réserves
+111: Réserve légale
+112: Réserves statutaires ou contractuelles
+113: Réserves réglementées
+1131: Réserves de plus-values nettes à long terme
+1133: Réserves consécutives à l’oc-troi de subventions d’investisse-ment
+1138: Autres réserves réglementées
+118: Autres réserves
+1181: Réserves facultatives
+1188: Réserves diverses
 
-10 Capital
-  
-  101 Capital social
-    
-    1011 Capital souscrit, non appelé
-    
-    1012 Capital souscrit, appelé, non versé
-    
-    1013 Capital souscrit, appelé, versé, non amorti
-    
-    1014 Capital souscrit, appelé, versé, amorti
-    
-    1018 Capital souscrit soumis à des conditions particulières
-  
-  102 Capital par dotation
-    
-    1021 Dotation initiale
-    
-    1022 Dotations complémentaires
-    
-    1028 Autres dotations
-  
-  103 Capital personnel
-  
-  104 Compte de l’exploitant
-    
-    1041 Apports temporaires
-    
-    1042 Opérations courantes
-    
-    1043 Rémunérations, impôts et autres charges personnelles
-    
-    1047 Prélèvements d’autoconsom-mation
-    
-    1048 Autres prélèvements
-  
-  105 Primes liées aux capitaux propres
-    
-    1051 Primes d’émission
-    
-    1052 Primes d’apport
-    
-    1053 Primes de fusion
-    
-    1054 Primes de conversion
-    
-    1058 Autres primes
-  
-  106 Écarts de réévaluation
-    
-    1061 Écarts de réévaluation légale
-    
-    1062 Écarts de réévaluation libre
-  
-  109 Actionnaires, capital souscrit, non appelé
+12: Report à nouveau
+121: Report à nouveau créditeur
+129: Report à nouveau débiteur
+1291: Perte nette à reporter
+1292: Perte Amortissements réputés différés
 
+13: Résultat net de l’exercice
+130: Résultat en instance d’affectation
+1301: Résultat en instance d’affec-tation bénéfice
+1309: Résultat en instance d’affec-tation perte
+131: Résultat net bénéfice
+132: Marge brute (MB)
+1321: Marge brute sur marchandises
+1322: Marge brute sur matières
+133: Valeur ajoutée (VA)
+134: Excédent brut d’exploitation (EBE)
+135: Résultat d’exploitation (RE)
+136: Résultat financier (RF)
+137: Résultat des activités ordinaires (RAO)
+138: Résultat hors activités ordinaires (RHAO)
+139: Résultat net perte
 
+14: Subventions d’investissement
+141: Subventions d’équipement A
+1411: État
+1412: Régions
+1413: Départements
+1414: Communes et collectivités publiques décentralisées
+1415: Entreprises publiques ou mixtes
+1416: Entreprises et organismes privés
+1417: Organismes internationaux
+1418: Autres
+142: Subventions d’équipement B
+148: Autres subventions d’investisse-ment
 
-11 Réserves
-  
-  111 Réserve légale
-  
-  112 Réserves statutaires ou contractuelles
-  
-  113 Réserves réglementées
-    
-    1131 Réserves de plus-values nettes à long terme
-    
-    1133 Réserves consécutives à l’oc-troi de subventions d’investisse-ment
-    
-    1138 Autres réserves réglementées
-  
-  118 Autres réserves
-    
-    1181 Réserves facultatives
-    
-    1188 Réserves diverses
+15: Provisions réglementées et fonds assimilés
+151: Amortissements dérogatoires
+152: Plus-values de cession à réinvestir
+153: Fonds réglementés
+1531: Fonds National
+1532: Prélèvement pour le Budget
+154: Provision spéciale de réévaluation
+155: Provisions réglementées relatives aux immobilisations
+1551: Reconstitution des gisements miniers et pétroliers
+156: Provisions réglementées relatives aux stocks
+1561: Hausse de prix
+1562: Fluctuation des cours
+157: Provisions pour investissement
+158: Autres provisions et fonds réglementes
 
+16: Emprunts et dettes assimilées
+161: Emprunts obligataires
+1611: Emprunts obligataires ordinaires
+1612: Emprunts obligataires con-vertibles
+1618: Autres emprunts obligataires
+162: Emprunts et dettes auprès des établissements de crédit
+163: Avances reçues de l’état
+164: Avances reçues et comptes courants bloqués
+165: Dépôts et cautionnements reçus
+1651: Dépôts
+1652: Cautionnements
+166: Intérêts courus
+1661: sur emprunts obligataires
+1662: sur emprunts et dettes auprès des établissements de crédit
+1663: sur avances reçues de l’État
+1664: sur avances reçues et comptes courants bloqués
+1665: sur dépôts et cautionnements reçus
+1667: sur avances assorties de conditions particulières
+1668: sur autres emprunts et dettes
+167: Avances assorties de conditions particulières
+1671: Avances bloquées pour augmentation du capital
+1672: Avances conditionnées par l’État
+1673: Avances conditionnées par les autres organismes africains
+1674: Avances conditionnées par les organismes internationaux
+1676: Droits du concédant exigibles en nature
+168: Autres emprunts et dettes
+1681: Rentes viagères capitalisées
+1682: Billets de fonds
+1683: Dettes consécutives à des titres empruntés
+1684: Dettes du concédant exigibles en nature
+1685: Emprunts participatifs
+1686: Participation des travailleurs aux bénéfices
 
-12 Report à nouveau
-  
-  121 Report à nouveau créditeur
-  
-  129 Report à nouveau débiteur
-    
-    1291 Perte nette à reporter
-    
-    1292 Perte Amortissements réputés différés
+17: Dettes de crédit ‐ bail et contrats assimilés
+172: Emprunts équivalents de crédit bail immobilier
+173: Emprunts équivalents de crédit bail mobilier
+176: Intérêts courus
+1762: sur emprunts équivalents de crédit bail immobilier
+1763: sur emprunts équivalents de crédit bail mobilier
+1768: sur emprunts équivalents d’autres contrats
+178: Emprunts équivalents d’autres contrats
 
+18: Dettes liées à des participations et comptes de liaison des établissements et sociétés en participation
+181: Dettes liées à des participations
+1811: Dettes liées à des participations (groupe)
+1812: Dettes liées à des participations (hors groupe)
+182: Dettes liées à des sociétés en participation
+183: Intérêts courus sur dettes liées à des participations
+184: Comptes permanents bloqués des établissements et succursales
+185: Comptes permanents non bloqués des établissements et succursales
+186: Comptes de liaison charges
+187: Comptes de liaison produits
+188: Comptes de liaison des sociétés en participation
 
-13 Résultat net de l’exercice
-  
-  130 Résultat en instance d’affectation
-    
-    1301 Résultat en instance d’affec-tation : bénéfice
-    
-    1309 Résultat en instance d’affec-tation : perte
-  
-  131 Résultat net : bénéfice
-  
-  132 Marge brute (MB)
-    
-    1321 Marge brute sur marchandises
-    
-    1322 Marge brute sur matières
-  
-  133 Valeur ajoutée (VA)
-  
-  134 Excédent brut d’exploitation (EBE)
-  
-  135 Résultat d’exploitation (RE)
-  
-  136 Résultat financier (RF)
-  
-  137 Résultat des activités ordinaires (RAO)
-  
-  138 Résultat hors activités ordinaires (RHAO)
-  
-  139 Résultat net : perte
-
-
-14 Subventions d’investissement
-  
-  141 Subventions d’équipement A
-    
-    1411 État
-    
-    1412 Régions
-    
-    1413 Départements
-    
-    1414 Communes et collectivités publiques décentralisées
-    
-    1415 Entreprises publiques ou mixtes
-    
-    1416 Entreprises et organismes privés
-    
-    1417 Organismes internationaux
-    
-    1418 Autres
-  
-  142 Subventions d’équipement B
-  
-  148 Autres subventions d’investisse-ment
-
-
-15 Provisions réglementées et fonds assimilés
-
-  151 Amortissements dérogatoires
-  
-  152 Plus-values de cession à réinvestir
-  
-  153 Fonds réglementés
-    
-    1531 Fonds National
-    
-    1532 Prélèvement pour le Budget
-  
-  154 Provision spéciale de réévaluation
-  
-  155 Provisions réglementées relatives aux immobilisations
-    
-    1551 Reconstitution des gisements miniers et pétroliers
-  
-  156 Provisions réglementées relatives aux stocks
-    
-    1561 Hausse de prix
-    
-    1562 Fluctuation des cours
-  
-  157 Provisions pour investissement
-  
-  158 Autres provisions et fonds réglementes
-
-
-16 Emprunts et dettes assimilées
-  
-  161 Emprunts obligataires
-    
-    1611 Emprunts obligataires ordinaires
-    
-    1612 Emprunts obligataires con-vertibles
-    
-    1618 Autres emprunts obligataires
-  
-  162 Emprunts et dettes auprès des établissements de crédit
-  
-  163 Avances reçues de l’état
-  
-  164 Avances reçues et comptes courants bloqués
-  
-  165 Dépôts et cautionnements reçus
-    
-    1651 Dépôts
-    
-    1652 Cautionnements
-  
-  166 Intérêts courus
-    
-    1661 sur emprunts obligataires
-    
-    1662 sur emprunts et dettes auprès des établissements de crédit
-    
-    1663 sur avances reçues de l’État
-    
-    1664 sur avances reçues et comptes courants bloqués
-    
-    1665 sur dépôts et cautionnements reçus
-    
-    1667 sur avances assorties de conditions particulières
-    
-    1668 sur autres emprunts et dettes
-  
-  167 Avances assorties de conditions particulières
-    
-    1671 Avances bloquées pour augmentation du capital
-    
-    1672 Avances conditionnées par l’État
-    
-    1673 Avances conditionnées par les autres organismes africains
-    
-    1674 Avances conditionnées par les organismes internationaux
-    
-    1676 Droits du concédant exigibles en nature
-  
-  168 Autres emprunts et dettes
-    
-    1681 Rentes viagères capitalisées
-    
-    1682 Billets de fonds
-    
-    1683 Dettes consécutives à des titres empruntés
-    
-    1684 Dettes du concédant exigibles en nature
-    
-    1685 Emprunts participatifs
-    
-    1686 Participation des travailleurs aux bénéfices
-
-
-
-17 Dettes de crédit ‐ bail et contrats assimilés
-  
-  172 Emprunts équivalents de crédit bail immobilier
-  
-  173 Emprunts équivalents de crédit bail mobilier
-  
-  176 Intérêts courus
-    
-    1762 sur emprunts équivalents de crédit bail immobilier
-    
-    1763 sur emprunts équivalents de crédit bail mobilier
-    
-    1768 sur emprunts équivalents d’autres contrats
-  
-  178 Emprunts équivalents d’autres contrats
-
-
-18 Dettes liées à des participations et comptes de liaison des établissements et sociétés en participation
-  
-  181 Dettes liées à des participations
-    
-    1811 Dettes liées à des participations (groupe)
-    
-    1812 Dettes liées à des participations (hors groupe)
-  
-  182 Dettes liées à des sociétés en participation
-  
-  183 Intérêts courus sur dettes liées à des participations
-  
-  184 Comptes permanents bloqués des établissements et succursales
-  
-  185 Comptes permanents non bloqués des établissements et succursales
-  
-  186 Comptes de liaison charges
-  
-  187 Comptes de liaison produits
-  
-  188 Comptes de liaison des sociétés en participation
-
-
-19 Provisions financières pour risques et charges
-  
-  191 Provisions pour litiges
-  
-  192 Provisions pour garanties données aux clients
-  
-  193 Provisions pour pertes sur marchés à achèvement futur
-  
-  194 Provisions pour pertes de change
-  
-  195 Provisions pour impôts
-  
-  196 Provisions pour pensions et obligations similaires
-  
-  197 Provisions pour charges à repartir sur plusieurs exercices
-    
-    1971 Provisions pour grosses réparations
-  
-  198 Autres provisions financières pour risques et charges
-    
-    1981 Provisions pour amendes et pénalités
-    
-    1982 Provisions pour renouvellement des immobilisations (entreprises concessionnaires)
-    
-    1983 Provisions de propre assureur
-    
-    1988 Autres provisions financières pour risques et charges
+19: Provisions financières pour risques et charges
+191: Provisions pour litiges
+192: Provisions pour garanties données aux clients
+193: Provisions pour pertes sur marchés à achèvement futur
+194: Provisions pour pertes de change
+195: Provisions pour impôts
+196: Provisions pour pensions et obligations similaires
+197: Provisions pour charges à repartir sur plusieurs exercices
+1971: Provisions pour grosses réparations
+198: Autres provisions financières pour risques et charges
+1981: Provisions pour amendes et pénalités
+1982: Provisions pour renouvellement des immobilisations (entreprises concessionnaires)
+1983: Provisions de propre assureur
+1988: Autres provisions financières pour risques et charges

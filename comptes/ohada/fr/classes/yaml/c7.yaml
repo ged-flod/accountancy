@@ -1,211 +1,109 @@
-# Classe 7 Comptes de produits des activités ordinaires
 
+70: Ventes
+701: Ventes de marchandises
+7011: Dans la Région [5]
+7012: Hors Région (1)
+7013: Aux entreprises du groupe dans la Région
+7014: Aux entreprises du groupe hors Région
+702: Ventes de produits finis
+7021: Dans la Région (1)
+7022: Hors Région (1)
+7023: Aux entreprises du groupe dans la Région
+7024: Aux entreprises du groupe hors Région
+703: Ventes de produits intermédiaires
+7031: Dans la Région (1)
+7032: Hors Région (1)
+7033: Aux entreprises du groupe dans la Région
+7034: Aux entreprises du groupe hors Région
+704: Ventes de produits résiduels
+7041: Dans la Région (1)
+7042: Hors Région (1)
+7043: Aux entreprises du groupe dans la Région
+7044: Aux entreprises du groupe hors Région
+705: Travaux facturés
+7051: Dans la Région (1)
+7052: Hors Région (1)
+7053: Aux entreprises du groupe dans la Région
+7054: Aux entreprises du groupe hors Région
+706: Services vendus
+7061: Dans la Région (1)
+7062: Hors Région (1)
+7063: Aux entreprises du groupe dans la Région
+7064: Aux entreprises du groupe hors Région
+707: Produits accessoires
+7071: Ports, emballages perdus et autres frais facturés
+7072: Commissions et courtages [6]
+7073: Locations (2)
+7074: Bonis sur reprises et cessions d’emballages
+7075: Mise à disposition de personnel (2)
+7076: Redevances pour brevets, logiciels, marques et droits similaires (2)
+7077: Services exploités dans l’intérêt du personnel
+7078: Autres produits accessoires
 
-70 Ventes
+71: Subventions d’exploitation
+711: Sur produits à l’exportation
+712: Sur produits à l’importation
+713: Sur produits de péréquation
+718: Autres subventions d’exploita-tion
+7181: Versées par l’État et les collectivités publiques
+7182: Versées par les organismes internationaux
+7183: Versées par des tiers
 
-  701 Ventes de marchandises
-    
-    7011 Dans la Région [5]
-    
-    7012 Hors Région (1)
-    
-    7013 Aux entreprises du groupe dans la Région
-    
-    7014 Aux entreprises du groupe hors Région
+72: Production immobilisée
+721: Immobilisations incorporelles
+722: Immobilisations corporelles
+726: Immobilisations financières [7]
 
-  702 Ventes de produits finis
-    
-    7021 Dans la Région (1)
-    
-    7022 Hors Région (1)
-    
-    7023 Aux entreprises du groupe dans la Région
-    
-    7024 Aux entreprises du groupe hors Région
+73: Variations des stocks de biens et de services produits
+734: Variations des stocks de produits en cours
+7341: Produits en cours
+7342: Travaux en cours
+735: Variations des en-cours de services
+7351: Études en cours
+7352: Prestations de services en cours
+736: Variations des stocks de produits finis
+737: Variations des stocks de produits intermédiaires et résiduels
+7371: Produits intermédiaires
+7372: Produits résiduels
 
-  703 Ventes de produits intermédiaires
-    
-    7031 Dans la Région (1)
-    
-    7032 Hors Région (1)
-    
-    7033 Aux entreprises du groupe dans la Région
-    
-    7034 Aux entreprises du groupe hors Région
+75: Autres produits
+752: Quote-part de résultat sur opérations faites en commun
+7521: Quote-part transférée de pertes (comptabilité du gérant)
+7525: Bénéfices attribués par transfert (comptabilité des associés non gérants)
+753: Quote-part de résultat sur exécution partielle de contrats pluri-exercices
+754: Produits des cessions courantes d’immobilisations
+758: Produits divers
+7581: Jetons de présence et autres rémunérations d’administrateurs
+7582: Indemnités d’assurances reçues
+759: Reprises de charges provisionnées d’exploitation
+7591: Sur risques à court terme
+7593: Sur stocks
+7594: Sur créances
+7598: Sur autres charges provisionnées
 
-  704 Ventes de produits résiduels
-    
-    7041 Dans la Région (1)
-    
-    7042 Hors Région (1)
-    
-    7043 Aux entreprises du groupe dans la Région
-    
-    7044 Aux entreprises du groupe hors Région
+77: Revenus financiers et produits assimilés
+771: Intérêts de prêts
+772: Revenus de participations
+773: Escomptes obtenus
+774: Revenus de titres de placement
+776: Gains de change
+777: Gains sur cessions de titres de placement
+778: Gains sur risques financiers
+7781: Sur rentes viagères
+7782: Sur opérations financières
+7784: Sur instruments de trésorerie
+779: Reprises de charges provisionnées financières
+7791: Sur risques financiers
+7795: Sur titres de placement
+7798: Autres charges provisionnées financières
 
-  705 Travaux facturés
-    
-    7051 Dans la Région (1)
-    
-    7052 Hors Région (1)
-    
-    7053 Aux entreprises du groupe dans la Région
-    
-    7054 Aux entreprises du groupe hors Région
+78: Transferts de charges
+781: Transferts de charges d’exploita-tion
+787: Transferts de charges financieres
 
-  706 Services vendus
-    
-    7061 Dans la Région (1)
-    
-    7062 Hors Région (1)
-    
-    7063 Aux entreprises du groupe dans la Région
-    
-    7064 Aux entreprises du groupe hors Région
-
-  707 Produits accessoires
-    
-    7071 Ports, emballages perdus et autres frais facturés
-    
-    7072 Commissions et courtages [6]
-    
-    7073 Locations (2)
-    
-    7074 Bonis sur reprises et cessions d’emballages
-    
-    7075 Mise à disposition de personnel (2)
-    
-    7076 Redevances pour brevets, logiciels, marques et droits similaires (2)
-    
-    7077 Services exploités dans l’intérêt du personnel
-    
-    7078 Autres produits accessoires
-
-
-71 Subventions d’exploitation
-  
-  711 Sur produits à l’exportation
-  
-  712 Sur produits à l’importation
-  
-  713 Sur produits de péréquation
-  
-  718 Autres subventions d’exploita-tion
-    
-    7181 Versées par l’État et les collectivités publiques
-    
-    7182 Versées par les organismes internationaux
-    
-    7183 Versées par des tiers
-
-
-72 Production immobilisée
-  
-  721 Immobilisations incorporelles
-  
-  722 Immobilisations corporelles
-  
-  726 Immobilisations financières [7]
-
-
-73 Variations des stocks de biens et de services produits
-  
-  734 Variations des stocks de produits en cours
-    
-    7341 Produits en cours
-    
-    7342 Travaux en cours
-  
-  735 Variations des en-cours de services
-    
-    7351 Études en cours
-    
-    7352 Prestations de services en cours
-  
-  736 Variations des stocks de produits finis
-  
-  737 Variations des stocks de produits intermédiaires et résiduels
-    
-    7371 Produits intermédiaires
-    
-    7372 Produits résiduels
-
-
-75 Autres produits
-  
-  752 Quote-part de résultat sur opérations faites en commun
-    
-    7521 Quote-part transférée de pertes (comptabilité du gérant)
-    
-    7525 Bénéfices attribués par transfert (comptabilité des associés non gérants)
-  
-  753 Quote-part de résultat sur exécution partielle de contrats pluri-exercices
-  
-  754 Produits des cessions courantes d’immobilisations
-  
-  758 Produits divers
-    
-    7581 Jetons de présence et autres rémunérations d’administrateurs
-    
-    7582 Indemnités d’assurances reçues
-  
-  759 Reprises de charges provisionnées d’exploitation
-    
-    7591 Sur risques à court terme
-    
-    7593 Sur stocks
-    
-    7594 Sur créances
-    
-    7598 Sur autres charges provisionnées
-
-
-77 Revenus financiers et produits assimilés
-  
-  771 Intérêts de prêts
-  
-  772 Revenus de participations
-  
-  773 Escomptes obtenus
-  
-  774 Revenus de titres de placement
-  
-  776 Gains de change
-  
-  777 Gains sur cessions de titres de placement
-  
-  778 Gains sur risques financiers
-    
-    7781 Sur rentes viagères
-    
-    7782 Sur opérations financières
-    
-    7784 Sur instruments de trésorerie
-  
-  779 Reprises de charges provisionnées financières
-    
-    7791 Sur risques financiers
-    
-    7795 Sur titres de placement
-    
-    7798 Autres charges provisionnées financières
-
-
-78 Transferts de charges
-  
-  781 Transferts de charges d’exploita-tion
-  
-  787 Transferts de charges financieres
-
-
-79 Reprises de provisions
-  
-  791 Reprises de provisions d’exploi-tation
-    
-    7911 Pour risques et charges
-    
-    7912 Pour grosses réparations
-    
-    7913 Pour dépréciation des immobilisations incorporelles
-    
-    7914 Pour dépréciation des immobilisations corporelles
+79: Reprises de provisions
+791: Reprises de provisions d’exploi-tation
+7911: Pour risques et charges
+7912: Pour grosses réparations
+7913: Pour dépréciation des immobilisations incorporelles
+7914: Pour dépréciation des immobilisations corporelles

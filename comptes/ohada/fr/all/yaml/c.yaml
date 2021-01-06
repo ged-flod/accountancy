@@ -156,7 +156,7 @@
 1981: Provisions pour amendes et pénalités
 1982: Provisions pour renouvellement des immobilisations (entreprises concessionnaires)
 1983: Provisions de propre assureur
-  1988: Autres provisions financières pour risques et charges
+1988: Autres provisions financières pour risques et charges
   
 
 
@@ -533,7 +533,7 @@
 395: Dépréciations des services en cours
 396: Dépréciations des stocks de produits finis
 397: Dépréciations des stocks de produits intermédiaires et résiduels
-  398: Dépréciations des stocks en cours de route, en consignation ou en dépôt
+398: Dépréciations des stocks en cours de route, en consignation ou en dépôt
   
 
 
@@ -764,7 +764,7 @@
 4983: Autres créances HAO
 499: Risques provisionnés
 4991: Sur opérations d’exploitation
-  4998: Sur opérations HAO
+4998: Sur opérations HAO
 
 
 
@@ -860,7 +860,7 @@
 592: Dépréciations des comptes banques
 593: Dépréciations des comptes établissements financiers et assimilés
 594: Dépréciations des comptes d’instruments de trésorerie
-  599: Risques provisionnés à caractère financier
+599: Risques provisionnés à caractère financier
   
 
 
@@ -1359,4 +1359,4 @@
 
 98: Comptes de résultats
 
-99: Comptes de liaisons internes"}
+99: Comptes de liaisons internes
