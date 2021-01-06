@@ -1,0 +1,108 @@
+# Classe 9  Comptes des engagements hors bilan et comptes de la comptabilité analytique de gestion
+
+# I. Comptes des engagements hors bilan
+
+90 Engagements obtenus et engagements accordés
+
+  # 901 à 904 ‐ Engagements obtenus
+  901 Engagements de financement obtenus
+    
+    9011 Crédits confirmés obtenus
+    
+    9012 Emprunts restant à encaisser
+    
+    9013 Facilités de financement renouvelables
+    
+    9014 Facilités d’émission
+    
+    9018 Autres engagements de financement obtenus
+  
+  902 Engagements de garantie obtenus
+    
+    9021 Avals obtenus
+    
+    9022 Cautions, garanties obtenues
+    
+    9023 Hypothèques obtenues
+    
+    9024 Effets endossés par des tiers
+    
+    9028 Autres garanties obtenues
+  
+  903 Engagements réciproques
+    
+    9031 Achats de marchandises à terme
+    
+    9032 Achats à terme de devises
+    
+    9033 Commandes fermes des clients
+    
+    9038 Autres engagements réciproques
+  
+  904 Autres engagements obtenus
+    
+    9041 Abandons de créances conditionnels
+    
+    9043 Ventes avec clause de réserve de propriété
+    
+    9048 Divers engagements obtenus
+
+  # 905 à 908 ‐ Engagements accordés
+  905 Engagements de financement accordés
+    
+    9051 Crédits accordés non décaissés
+    
+    9058 Autres engagements de financement accordés
+  
+  906 Engagements de garantie accordés
+    
+    9061 Avals accordés
+    
+    9062 Cautions, garanties accordées
+    
+    9063 Hypothèques accordées
+    
+    9064 Effets endossés par l’entre-prise
+    
+    9068 Autres garanties accordées
+  
+  907 Engagements réciproques
+    
+    9071 Ventes de marchandises à terme
+    
+    9072 Ventes à terme de devises
+    
+    9073 Commandes fermes aux fournisseurs
+    
+    9078 Autres engagements réciproques
+  
+  908 Autres engagements accordés
+    
+    9081 Annulations conditionnelles de dettes
+    
+    9082 Engagements de retraite
+    
+    9083 Achats avec clause de réserve de propriété
+    
+    9088 Divers engagements accordés
+
+91 Contreparties des engagements
+  # 911 à 914 Contrepartie des engagements obtenus, 901 à 904
+  # 915 à 918 Contrepartie des engagements accordés, 905 à 908
+
+# II. Comptes de la comptabilité analytique de gestion (CAGE)
+92 Comptes réfléchis
+
+93 Comptes de reclassements
+
+94 Comptes de coûts
+
+95 Comptes de stocks
+
+96 Comptes d’écarts sur coûts préétablis
+
+97 Comptes de différences de traitement comptable
+
+98 Comptes de résultats
+
+99 Comptes de liaisons internes
