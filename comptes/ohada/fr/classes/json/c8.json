@@ -1,0 +1,62 @@
+[
+	{"81": "Valeurs comptables des cessions d’immobilisations"},
+	{"811": "Immobilisations incorporelles"},
+	{"812": "Immobilisations corporelles"},
+	{"816": "Immobilisations financières"},
+
+	{"82": "Produits des cessions d’immobilisa-tions"},
+	{"821": "Immobilisations incorporelles"},
+	{"822": "Immobilisations corporelles"},
+	{"826": "Immobilisations financières"},
+
+	{"83": "Charges hors activités ordinaires"},
+	{"831": "Charges HAO constatées"},
+	{"834": "Pertes sur créances HAO"},
+	{"835": "Dons et libéralités accordés"},
+	{"836": "Abandons de créances consentis"},
+	{"839": "Charges provisionnées HAO"},
+
+	{"84": "Produits hors activités ordinaires"},
+	{"841": "Produits HAO constatés"},
+	{"845": "Dons et libéralités obtenus"},
+	{"846": "Abandons de créances obtenus"},
+	{"848": "Transferts de charges HAO"},
+	{"849": "Reprises des charges provisionnées HAO"},
+
+	{"85": "Dotations hors activités ordinaires"},
+	{"851": "Dotations aux provisions réglementées"},
+	{"852": "Dotations aux amortissements HAO"},
+	{"853": "Dotations aux provisions pour dépréciation HAO"},
+	{"854": "Dotations aux provisions pour risques et charges HAO"},
+	{"858": "Autres dotations HAO"},
+
+	{"86": "Reprises hors activités ordinaires"},
+	{"861": "Reprises de provisions réglementées"},
+	{"862": "Reprises d’amortissements"},
+	{"863": "Reprises de provisions pour dépréciation HAO"},
+	{"864": "Reprises de provisions pour risques et charges HAO"},
+	{"865": "Reprises de subventions d’inves-tissement"},
+	{"868": "Autres reprises HAO"},
+
+	{"87": "participation des travailleurs"},
+	{"871": "Participation légale aux bénéfices"},
+	{"874": "Participation contractuelle aux bénéfices"},
+	{"878": "Autres participations"},
+
+	{"88": "Subventions d’équilibre"},
+	{"881": "État"},
+	{"884": "Collectivités publiques"},
+	{"886": "Groupe"},
+	{"888": "Autres"},
+
+	{"89": "Impôts sur le résultat"},
+	{"891": "Impôts sur les bénéfices de l’exercice"},
+	{"8911": "Activités exercées dans l’État"},
+	{"8912": "Activités exercées dans les autres États de la Région"},
+	{"8913": "Activités exercées hors Région"},
+	{"892": "Rappel d’impôts sur résultats antérieurs"},
+	{"895": "Impôt minimum forfaitaire IMF"},
+	{"899": "Dégrèvements et annulations d’impôts sur résultats antérieurs"},
+	{"8991": "Dégrèvements"},
+	{"8994": "Annulations pour pertes rétroactives"}
+]
